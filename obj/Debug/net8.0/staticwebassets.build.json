@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "quGj2dCbaF0BlhOIbQWSsYCE9nV6F0eWoHt0vvj9gAU=",
+  "Source": "EchoFlowApi",
+  "BasePath": "_content/EchoFlowApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

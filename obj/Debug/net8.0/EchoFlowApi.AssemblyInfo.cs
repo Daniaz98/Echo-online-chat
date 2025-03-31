@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EchoFlowApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6e1be0881ada3b0ade0caef83bf5b17518195af")]
 [assembly: System.Reflection.AssemblyProductAttribute("EchoFlowApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EchoFlowApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

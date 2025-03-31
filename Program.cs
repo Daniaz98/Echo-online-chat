@@ -1,3 +1,4 @@
+using EchoFlowApi.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,6 +1,6 @@
-﻿namespace EchoFlowApi.Features.Auth.Register
-{
-    public class RegisterCommand
-    {
-    }
-}
+﻿using MediatR;
+
+namespace EchoFlowApi.Features.Auth.Register;
+
+public record RegisterCommand(string Username, string Email, string Password) : IRequest<RegisterResponse>;
+
